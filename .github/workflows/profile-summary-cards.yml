@@ -1,0 +1,23 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs daily at midnight
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: Michaella4110
+          # Themes: default, github, dracula, monokai, radical, etc.
+          THEME: dracula
