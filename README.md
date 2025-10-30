@@ -1,5 +1,10 @@
 <!-- 👋 Hey there! Welcome to my GitHub Profile -->
 
+<!-- 🖼️ Custom Banner Section -->
+<p align="center">
+  <img src="./assets/banner.gif" alt="banner" width="800" />
+</p>
+
 <h2 align="center">👋 Hey! I'm Tesfamichael Assefa (Michaella)</h2>
 <p align="center">
 🚀 Software Engineer | Android Developer | Future Tech Enthusiast  
@@ -17,30 +22,31 @@
 
 ### 🛠 Skills
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,androidstudio,git,github,mysql,vscode,linux,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,androidstudio,git,github,mysql,vscode,linux,html,css" />
 </p>
 
 ---
 
 ### 💡 About Me
 - 🌱 I’m a self-taught developer passionate about **Android and backend systems**
-- ⚙️ I work with **Kotlin, Java, and Python**
-- 🎨 I love designing **modern, intuitive UI/UX**
+- ⚙️ Skilled in **Kotlin, Java, and Python**
+- 🎨 I love crafting **modern, intuitive UI/UX**
 - 🧠 Always exploring **AI + Future Tech**
+- 💫 Believer in continuous learning and creative innovation
 
 ---
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/tesfamichael-assefa-487784367/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:tesfamichael4110@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://t.me/Michaella_4110" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
+  <a href="https://www.linkedin.com/in/tesfamichael-assefa-487784367/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tesfamichael4110@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/Michaella_4110" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </p>
 
 ---
@@ -51,6 +57,7 @@
 ---
 
 ### 🐍 My Contribution Snake
-![Contribution snake](https://github.com/Michaella4110/Michaella4110/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Michaella4110/Michaella4110/output/github-contribution-grid-snake.svg)
 
 ---
+
