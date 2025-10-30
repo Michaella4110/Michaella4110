@@ -50,5 +50,7 @@
 
 ---
 
-### 🐍 Fun Touch
-![Snake animation](https://github.com/Michaella4110/Michaella4110/blob/output/github-contribution-grid-snake.svg)
+### 🐍 My Contribution Snake
+![Contribution snake](https://github.com/Michaella4110/Michaella4110/blob/output/github-contribution-grid-snake.svg)
+
+---
