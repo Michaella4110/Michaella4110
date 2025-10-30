@@ -16,7 +16,7 @@
 ---
 
 ### 🛠 Skills
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,kotlin,python,androidstudio,git,github,mysql,vscode,linux,html,css" />
 </p>
 
@@ -31,10 +31,22 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 [[LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BXPzgifLuTB6rtyIbyGXZIA%3D%3D))](https://www.linkedin.com/in/tesfamichael-assefa-487784367/
-)
-- 📧 [Email Me](mailto:tesfamichael4110@gmail.com)
-- 🌐 Portfolio: *Coming soon...*
+<p align="left">
+<a href="https://www.linkedin.com/in/tesfamichael-assefa-487784367/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:tesfamichael4110@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://t.me/Michaella_4110" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+</p>
+
+---
+
+### 🌐 Portfolio
+🚧 *Coming soon... stay tuned!*
 
 ---
 
