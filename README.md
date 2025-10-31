@@ -1,63 +1,77 @@
-<!-- 👋 Hey there! Welcome to my GitHub Profile -->
+<!-- 🎯 Dynamic Banner Section -->
+<div align="center">
+  <img src="./assets/banner.gif" alt="Modern Tech Banner" width="800" height="auto" />
+</div>
 
-<!-- 🖼️ Custom Banner Section -->
-<p align="center">
-  <img src="./assets/banner.gif" alt="banner" width="800" />
-</p>
-
-<h2 align="center">👋 Hey! I'm Tesfamichael Assefa (Michaella)</h2>
-<p align="center">
-🚀 Software Engineer | Android Developer | Future Tech Enthusiast  
-</p>
+<h1 align="center">👋 Hello World! I'm Tesfamichael Assefa (Michaella)</h1>
+<h3 align="center">💻 Software Engineer | 📱 Android Developer | 🚀 Future-Tech Innovator</h3>
 
 ---
 
-### 💫 Profile Stats
-![Profile Views](https://komarev.com/ghpvc/?username=Michaella4110&style=flat)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michaella4110&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaella4110&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Michaella4110&theme=radical)
+### 📊 Digital Footprint
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Michaella4110&style=flat-square&color=blueviolet)
+  
+  <br />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Michaella4110&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaella4110&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" height="160" />
+  
+  <br />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michaella4110&theme=nightowl&hide_border=true" alt="GitHub Streak" height="160" />
+</div>
 
 ---
 
-### 🛠 Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,androidstudio,git,github,mysql,vscode,linux,html,css" />
-</p>
+### 🛠 Tech Stack & Tools
+<div align="center">
+  
+  **Mobile & Backend Development**
+  <br />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,cpp" />
+  
+  **Web & Design**
+  <br />
+  <img src="https://skillicons.dev/icons?i=html,css" />
+  
+  **DevOps & Tools**
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,linux" />
+</div>
 
 ---
 
-### 💡 About Me
-- 🌱 I’m a self-taught developer passionate about **Android and backend systems**
-- ⚙️ Skilled in **Kotlin, Java, and Python**
-- 🎨 I love crafting **modern, intuitive UI/UX**
-- 🧠 Always exploring **AI + Future Tech**
-- 💫 Believer in continuous learning and creative innovation
+### 🧠 About My Journey
+- 🎯 **Focus:** Building modern Android applications with elegant UI/UX
+- 🌱 **Currently Exploring:** AI integration and cutting-edge mobile technologies
+- 💡 **Passionate About:** Solving complex problems through clean, efficient code
+- 🚀 **Mindset:** Continuous learner with a growth-oriented approach
+- ✨ **Belief:** Technology should be both powerful and accessible
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/tesfamichael-assefa-487784367/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tesfamichael4110@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://t.me/Michaella_4110" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
+### 📱 Let's Connect
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tesfamichael-assefa-487784367/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tesfamichael4110@gmail.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Michaella_4110)
+</div>
 
 ---
 
-### 🌐 Portfolio
-🚧 *Coming soon... stay tuned!*
+### 🎨 Portfolio & Projects
+**🚀 Next-Gen Portfolio Launching 2026**  
+*Building something extraordinary - stay tuned!*
 
 ---
 
-### 🐍 My Contribution Snake
+### 🐍 Contribution Graph
 ![Contribution Snake](https://raw.githubusercontent.com/Michaella4110/Michaella4110/output/github-contribution-grid-snake.svg)
 
----
-
+<div align="center">
+  
+  *⭐ Star my repos if you find something interesting!*
+</div>
