@@ -1,6 +1,6 @@
 <!-- 🎯 Dynamic Banner Section -->
 <div align="center">
-  <img src="./assets/banner.gif" alt="Modern Tech Banner" width="800" height="auto" />
+  <img src="./assets/banner.gif" alt="Modern Tech Banner" width="800" />
 </div>
 
 <h1 align="center">👋 Hello World! I'm Tesfamichael Assefa (Michaella)</h1>
@@ -22,40 +22,50 @@
 
 ### 🛠 Tech Stack & Tools
 <div align="center">
-  **Mobile & Backend Development**
-  <br />
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,cpp" />
-  
-  **Web & Design**
-  <br />
-  <img src="https://skillicons.dev/icons?i=html,css" />
-  
-  **DevOps & Tools**
-  <br />
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,linux" />
+  <!-- Scattered / futuristic layout -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=kotlin" />
+    <img src="https://skillicons.dev/icons?i=python" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=git" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </p>
 </div>
 
 ---
 
 ### 🧠 About My Journey
-- 🎯 **Focus:** Building modern Android applications with elegant UI/UX
-- 🌱 **Currently Exploring:** AI integration and cutting-edge mobile technologies
-- 💡 **Passionate About:** Solving complex problems through clean, efficient code
-- 🚀 **Mindset:** Continuous learner with a growth-oriented approach
-- ✨ **Belief:** Technology should be both powerful and accessible
+- 🎯 **Focus:** Building modern Android applications with elegant UI/UX  
+- 🌱 **Currently Exploring:** AI integration and cutting-edge mobile technologies  
+- 💡 **Passionate About:** Solving complex problems through clean, efficient code  
+- 🚀 **Mindset:** Continuous learner with a growth-oriented approach  
+- ✨ **Belief:** Technology should be both powerful and accessible  
 
 ---
 
 ### 📱 Let's Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/tesfamichael-assefa-487784367/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=white&label=" alt="LinkedIn" height="40"/>
   </a>
   <a href="mailto:tesfamichael4110@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=gmail&logoColor=white&label=" alt="Gmail" height="40"/>
   </a>
   <a href="https://t.me/Michaella_4110" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=telegram&logoColor=white&label=" alt="Telegram" height="40"/>
   </a>
 </div>
 
