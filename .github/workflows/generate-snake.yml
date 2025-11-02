@@ -1,36 +1,17 @@
-name: Generate contribution-snake
+name: github-contribution-snake
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours; change as you like
-  workflow_dispatch:        # allows manual runs from Actions tab
-  push:
-    branches:
-      - main
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual run
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v3
+      - name: Generate Snake
+        uses: Ashutosh00710/github-readme-activity-graph@main
         with:
-          # who to read contributions from; repository owner is handy
-          github_user_name: ${{ github.repository_owner }}
-          # output path inside the repo
-          output: 'output/github-contribution-grid-snake.svg'
-          # look & feel (examples: github, github-dark, github-light)
-          background: 'github-dark'
-          # optional: change snake color (hex)
-          snake_color: '#00FF9D'
-          # optional format: svg or gif
-          format: 'svg'
-
-      - name: Commit generated file
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "chore: update contribution snake"
-          file_pattern: output/**
+          username: Michaella4110
+          output: ./output
