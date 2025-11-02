@@ -74,7 +74,8 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  ![Contribution Snake](https://raw.githubusercontent.com/Michaella4110/Michaella4110/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/Michaella4110/Michaella4110/output/github-contribution-grid-snake.svg" alt="GitHub Snake" height="160"/>
   <br/>
+  
   *⭐ If you find any of my work helpful or interesting, a star on a repository is always appreciated!*
 </div>
