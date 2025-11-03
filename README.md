@@ -2,7 +2,7 @@
   <img src="./assets/banner.gif" alt="Modern Tech Banner" width="800" />
 </div>
 
-<h1 align="center">👋 Hello World! I'm **Tesfamichael Assefa** (Michaella)</h1>
+<h1 align="center">👋 Hello World! I'm Tesfamichael Assefa (Michaella)</h1>
 <h3 align="center">✨ Software Engineer | 📱 Android Developer | 💡 Future-Tech Innovator</h3>
 
 ---
