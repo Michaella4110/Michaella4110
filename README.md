@@ -35,7 +35,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,mysql,linux" alt="Web, Database, and OS Tools" />
 </p>
-
 ---
 
 ## 🧠 About My Journey
