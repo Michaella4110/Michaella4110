@@ -2,15 +2,17 @@
   <img src="./assets/banner.gif" alt="Modern Tech Banner" width="800" />
 </div>
 
-<h1 align="center">👋 Hello World! I'm Tesfamichael Assefa (Michaella)</h1>
-<h3 align="center">✨ Software Engineer | 📱 Android Developer | 💡 Future-Tech Innovator</h3>
+<h1 align="center">Hey there, I'm Tesfamichael Assefa (Michaella)</h1>
+<h3 align="center">Software Engineer • Android Developer • Future-Tech Enthusiast</h3>
 
 ---
 
-## 📈 My Digital Footprint
+## 📊 Digital Footprint
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Michaella4110&style=flat-square&color=blueviolet)
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Michaella4110&style=flat-square&color=blueviolet)
+  
 </div>
 
 <p align="center">
@@ -24,57 +26,61 @@
 
 ---
 
-## 🛠 Tech Stack & Core Tools
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp" alt="Programming Languages" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github" alt="Development & Version Control Tools" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,linux" alt="Web, Database, and OS Tools" />
-</p>
----
+<div align="center">
+  
+**Programming Languages**  
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp" height="45" />
 
-## 🧠 About My Journey
+**Tools & IDEs**  
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github" height="45" />
 
-* **🎯 Primary Focus:** Building robust, modern **Android applications** with exceptional UI/UX.
-* **🌱 Currently Exploring:** **AI integration** and leveraging cutting-edge mobile technologies.
-* **💡 Passionate About:** Delivering elegant solutions to complex problems through **clean, efficient code**.
-* **🚀 Mindset:** A continuous learner with a **growth-oriented** approach to technology.
-* **✨ Belief:** Technology must be both **powerful and universally accessible**.
+**Web, Database & OS**  
+<img src="https://skillicons.dev/icons?i=html,css,mysql,linux" height="45" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 💭 My Journey
+
+- 🎯 **Focus:** Developing high-performance Android apps with clean architecture and engaging UI/UX.  
+- 🔍 **Exploring:** AI-powered mobile experiences and next-gen tech integrations.  
+- 💡 **Driven By:** Turning complex ideas into elegant, functional solutions.  
+- 🚀 **Mindset:** Always learning, always building — progress through curiosity.  
+- 🌍 **Belief:** Technology should be intuitive, accessible, and meaningful.
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tesfamichael-assefa-487784367/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tesfamichael4110@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://t.me/Michaella_4110" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
 
 ---
 
-## 🎨 Portfolio & Projects
+## 🚀 Portfolio & Projects
 
-### **🚀 Next-Gen Portfolio Launching 2026**
-> *I'm currently building something extraordinary. Stay tuned for updates on projects focused on scalable Android and AI solutions!*
+### **Next-Gen Portfolio Launching 2026**
+> Building something remarkable — a showcase of intelligent Android systems and scalable AI integrations.  
+> Stay tuned for what’s coming next.
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Highlights
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Michaella4110/Michaella4110/output/github-contribution-grid-snake.svg" alt="GitHub Snake" height="160"/>
-  <br/>
-  
-  *⭐ If you find any of my work helpful or interesting, a star on a repository is always appreciated!*
+  <br/><br/>
+  ⭐ *If you enjoy my work, consider starring a repository — it helps others discover it too!*
 </div>
