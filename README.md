@@ -45,15 +45,15 @@
 
 ## 💭 My Journey
 
-- 🎯 **Focus:** Developing high-performance Android apps with clean architecture and engaging UI/UX.  
-- 🔍 **Exploring:** AI-powered mobile experiences and next-gen tech integrations.  
-- 💡 **Driven By:** Turning complex ideas into elegant, functional solutions.  
-- 🚀 **Mindset:** Always learning, always building — progress through curiosity.  
-- 🌍 **Belief:** Technology should be intuitive, accessible, and meaningful.
+- **Focus:** Developing high-performance Android apps with clean architecture and engaging UI/UX.  
+- **Exploring:** AI-powered mobile experiences and next-gen tech integrations.  
+- **Driven By:** Turning complex ideas into elegant, functional solutions.  
+- **Mindset:** Always learning, always building — progress through curiosity.  
+- **Belief:** Technology should be intuitive, accessible, and meaningful.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tesfamichael-assefa-487784367/" target="_blank">
@@ -69,7 +69,7 @@
 
 ---
 
-## 🚀 Portfolio & Projects
+## Portfolio & Projects
 
 ### **Next-Gen Portfolio Launching 2026**
 > Building something remarkable — a showcase of intelligent Android systems and scalable AI integrations.  
@@ -77,7 +77,7 @@
 
 ---
 
-## 📈 Contribution Highlights
+## Contribution Highlights
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Michaella4110/Michaella4110/output/github-contribution-grid-snake.svg" alt="GitHub Snake" height="160"/>
